@@ -15,7 +15,6 @@
 * 🎓 Third-year Information Science & Engineering student at Presidency University, Bangalore (CGPA: 8.35)
 * 💻 Fullstack developer building with **Spring Boot** and **React**
 * 🏢 Currently interning at **Next Afield**, working on fullstack development
-* 🏆 Won **InnovateX 4.0 Hackathon** with **TransitSenseAI**
 * 📜 Certified in **CS50x** from Harvard University
 * 🚀 Actively building **WebhookRelay** — a real-time webhook inspection & testing platform
 * 🎯 Preparing for placements — sharpening DSA and fullstack skills for top product & service companies
@@ -41,7 +40,7 @@
 
 **[WebhookRelay](https://github.com/YOUR-GITHUB-USERNAME/webhookrelay)** — Real-time webhook inspection & testing platform built with React, Tailwind, Spring Boot, WebSockets, MySQL, and JWT.
 
-**TransitSenseAI** —Project at InnovateX 4.0 hackathon.
+**[TransitSenseAI](https://github.com/sr-wn/TransitSenseAi)** —Project at InnovateX 4.0 hackathon.
 
 **Multi-tenant SaaS Platform** — Core portfolio project built using Spring Boot, React, JWT, and MySQL.
 
@@ -57,7 +56,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sr-wn&repo=webhookrelay&theme=swift)](https://github.com/sr-wn/webhookrelay)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sr-wn&repo=transitsenseai&theme=swift)](https://github.com/sr-wn/transitsenseai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sr-wn&repo=transitsenseai&theme=swift)](https://github.com/sr-wn/enterprise-multi-tenant-saas)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srawanp14@gmail.com)](mailto:srawanp14@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
