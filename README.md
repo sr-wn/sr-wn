@@ -42,7 +42,7 @@
 
 **[TransitSenseAI](https://github.com/sr-wn/TransitSenseAi)** —Project at InnovateX 4.0 hackathon.
 
-**Multi-tenant SaaS Platform** — Core portfolio project built using Spring Boot, React, JWT, and MySQL.
+**[Multi-tenant SaaS Platform](https://github.com/sr-wn/enterprise-multi-tenant-saas)** — Core portfolio project built using Spring Boot, React, JWT, and MySQL.
 
 <br/>
 
