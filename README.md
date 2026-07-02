@@ -23,11 +23,11 @@
 
 🎓 Third-year Information Science & Engineering student at **Presidency University, Bangalore**
 
-📊 **CGPA:** 8.35
+📊 **CGPA:** 8.4
 
 💼 Full-Stack Developer specializing in **Spring Boot + React**
 
-🏢 Currently interning at **Next Afield**
+🏢 Interned at **Next Afield**
 
 📜 Harvard **CS50x** Certified
 
