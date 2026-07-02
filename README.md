@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Srawan+Pandey+👋;Full-Stack+Developer;Spring+Boot+%7C+React+Developer;Building+Scalable+Applications;Always+Learning+Something+New" />
+  <img src="./We%20are1.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
