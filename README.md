@@ -1,176 +1,336 @@
-
 <p align="center">
   <img src="./We%20are1.png" alt="Banner" width="100%">
 </p>
 
+
+<h1 align="center">
+Hi 👋 I'm Srawan Pandey
+</h1>
+
+
+<h3 align="center">
+Full-Stack Developer | Java • Spring Boot • React • DSA
+</h3>
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/srawan-pandey">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:srawanp14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/srawan-pandey">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-  <a href="https://github.com/sr-wn">
-    <img src="https://img.shields.io/github/followers/sr-wn?style=for-the-badge&logo=github&label=Follow"/>
-  </a>
+<a href="mailto:srawanp14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/sr-wn">
+<img src="https://img.shields.io/github/followers/sr-wn?style=for-the-badge&logo=github">
+</a>
+
 </p>
+
 
 ---
 
 # 👨‍💻 About Me
 
-👨‍🎓 Hello!! I'm Srawan Pandey 😁!!
 
-🎓 Third-year Information Science & Engineering student at **Presidency University, Bangalore**
+```java
+public class SrawanPandey {
 
-📊 **CGPA:** 8.4
+    String role = "Full Stack Developer";
 
-💼 Full-Stack Developer specializing in **Spring Boot + React**
+    String backend = "Spring Boot";
 
-🏢 Interned at **Next Afield**
+    String frontend = "React";
 
-📜 Harvard **CS50x** Certified
+    String database = "PostgreSQL";
 
-🚀 Building production-ready backend systems and scalable web applications.
+    String focus = "Building Scalable SaaS Applications";
 
-🎯 Preparing for Software Engineering placements.
+    String currentlyLearning =
+            "Microservices | System Design | Cloud";
+}
+```
+
+- 🎓 Information Science & Engineering Student  
+- 🏫 Presidency University, Bangalore  
+- 📊 CGPA: 8.4  
+- 💼 Software Development Intern @ Next Afield  
+- 📜 Harvard CS50x Certified  
+- 🚀 Passionate about Backend Engineering & SaaS Platforms  
+- 🎯 Preparing for Software Engineering roles  
+
 
 ---
 
 # 🚀 Current Focus
 
-- 🔥 Enterprise Multi-Tenant SaaS
-- 🔥 WebhookRelay
-- 📚 Spring Security
-- ☁ Docker
-- ☁ AWS
-- 💻 Daily DSA Practice
+
+- 🏗 Enterprise Backend Development
+- 🔐 Spring Security + JWT
+- ⚙️ Microservices Architecture
+- 🐳 Docker
+- ☁ AWS Cloud
+- 🧠 Data Structures & Algorithms
+
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
+
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,typescript,nodejs,mysql,postgres,docker,git,github,tailwind,html,css,vscode,idea&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,javascript,typescript,nodejs,postgres,mysql,docker,aws,git,github,linux,html,css,vscode,idea&perline=8">
+
 </p>
+
 
 ---
 
-# 🌟 Featured Projects
 
-## 🚀 Enterprise Multi-Tenant SaaS
+# 🚀 Featured Projects
 
-> Spring Boot • React • JWT • MySQL
 
-A production-style SaaS application supporting authentication, multi-tenancy and role-based access.
+## 🏢 Enterprise Multi-Tenant SaaS Platform
+
+
+**Spring Boot • React • JWT • PostgreSQL**
+
+
+Production-style SaaS application with:
+
+
+✔ Multi-company Architecture  
+✔ Secure Authentication  
+✔ JWT Authorization  
+✔ Role Based Access Control  
+✔ REST API Design  
+
 
 🔗 https://github.com/sr-wn/enterprise-multi-tenant-saas
 
+
 ---
+
 
 ## 🔗 WebhookRelay
 
-> Spring Boot • React • WebSockets • JWT
 
-Real-time webhook inspection and debugging platform.
+**Spring Boot • React • WebSockets • JWT**
+
+
+Real-time webhook debugging and monitoring platform.
+
+
+Features:
+
+
+✔ Live webhook inspection  
+✔ Event tracking  
+✔ Secure API endpoints  
+
 
 🔗 https://github.com/sr-wn/webhookrelay
 
+
 ---
+
 
 ## 🤖 TransitSenseAI
 
-AI-powered smart public transport analytics built during InnovateX Hackathon.
+
+AI-powered smart transportation analytics system.
+
+
+Built during InnovateX Hackathon.
+
 
 🔗 https://github.com/sr-wn/TransitSenseAi
 
+
 ---
+
 
 # 📊 GitHub Statistics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr-wn&theme=github_dark)
 
-<br>
+<p align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sr-wn&theme=github_dark)
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sr-wn&layout=compact&theme=github_dark&hide_border=true"
+/>
 
-<br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr-wn&theme=github_dark)
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-wn&theme=github-dark-blue&hide_border=true">
+
+
+</p>
+
+
+
 
 ---
+
 
 # 📈 Contribution Graph
 
-[![Srawan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sr-wn&theme=github-dark)](https://github.com/sr-wn)
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-wn&theme=github-dark&hide_border=true">
+
+</p>
+
 
 ---
 
-# 🏆 Highlights
 
-![Repo Size](https://img.shields.io/github/repo-size/sr-wn/enterprise-multi-tenant-saas?style=for-the-badge)
+# ⚡ Development Analytics
 
-![Stars](https://img.shields.io/github/stars/sr-wn/enterprise-multi-tenant-saas?style=for-the-badge)
 
-![Last Commit](https://img.shields.io/github/last-commit/sr-wn/enterprise-multi-tenant-saas?style=for-the-badge)
+<p align="center">
+
+<img width="48%" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sr-wn&theme=github_dark&utcOffset=5.5">
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr-wn&theme=github_dark">
+
+</p>
+
+
+<p align="center">
+
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr-wn&theme=github_dark">
+
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr-wn&theme=github_dark">
+
+
+</p>
+
 
 ---
+
+# 🏰 My Engineering Kingdom
+
+
+```text
+
+                 👑 Backend
+
+                    |
+                    
+        ┌───────────┴───────────┐
+
+        ⚔️ APIs              🛡 Security
+
+          |                     |
+
+     REST / JWT           Auth Systems
+
+
+        └───────────┬───────────┘
+
+                    |
+
+              🏰 SaaS Platform
+
+                    |
+
+              PostgreSQL Vault
+
+```
+
+---
+
 
 # 📜 Certifications
 
-- ✅ Harvard CS50x
-- ✅ NASA Open Science
-- ✅ NPTEL Certifications
+
+🏅 Harvard CS50x  
+🏅 NASA Open Science  
+🏅 NPTEL Certifications  
+
 
 ---
+
 
 # 📚 Currently Learning
 
-- Spring Security
-- Microservices
-- Docker
-- Kubernetes
-- Redis
-- AWS
-- CI/CD
+
+```yaml
+Backend:
+  - Spring Security
+  - Microservices
+  - System Design
+
+DevOps:
+  - Docker
+  - AWS
+  - CI/CD
+
+Database:
+  - PostgreSQL
+  - Redis
+```
+
 
 ---
 
-# 💡 Developer Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+# 👀 Profile Views
+
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sr-wn&style=for-the-badge">
+
+</p>
+
 
 ---
 
-# 😂 Random Programming Joke
-
-![](https://readme-jokes.vercel.app/api)
-
----
 
 # 📫 Connect With Me
 
+
 <p align="center">
 
+
 <a href="https://www.linkedin.com/in/srawan-pandey">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
+
 
 <a href="mailto:srawanp14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
+
 
 <a href="https://github.com/sr-wn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
+
 </p>
+
 
 ---
 
+
 <p align="center">
-<i>⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.</i>
+
+<b>
+Building Scalable Systems • Writing Clean Code • Learning Everyday 🚀
+</b>
+
+<br><br>
+
+⭐ Thanks for visiting my profile!
+
 </p>
-```
