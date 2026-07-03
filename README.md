@@ -21,7 +21,7 @@
 
 # 👨‍💻 About Me
 
-👨‍🎓 Srawan Pandey!!
+👨‍🎓 Hello!! I'm Srawan Pandey 😁!!
 
 🎓 Third-year Information Science & Engineering student at **Presidency University, Bangalore**
 
