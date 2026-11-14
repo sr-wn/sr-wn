@@ -153,67 +153,53 @@ Built during InnovateX Hackathon.
 ---
 
 
-# 📊 GitHub Statistics
-
+## 📊 GitHub Statistics
 
 <p align="center">
+ <img src="https://github-stats-mu-nine.vercel.app/api?username=sr-wn&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sr-wn&layout=compact&theme=github_dark&hide_border=true"
-/>
-
-
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-wn&theme=github-dark-blue&hide_border=true">
-
-
+  <img width="49%"
+    src="https://streak-stats.demolab.com/?user=sr-wn&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata"
+    alt="GitHub Streak">
 </p>
 
-
-
+<p align="center">
+ <img src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=sr-wn&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-
-# 📈 Contribution Graph
-
+# 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-wn&theme=github-dark&hide_border=true">
-
+  <img
+    src="https://ghchart.rshah.org/409ba5/sr-wn"
+    alt="Srawan's GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
-
 ---
-
 
 # ⚡ Development Analytics
 
-
 <p align="center">
+  <img width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sr-wn&theme=github_dark&utcOffset=5.5"
+    alt="Productive Time">
 
-<img width="48%" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sr-wn&theme=github_dark&utcOffset=5.5">
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sr-wn&theme=github_dark">
-
+  <img width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr-wn&theme=github_dark"
+    alt="Repositories Per Language">
 </p>
 
-
 <p align="center">
-
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sr-wn&theme=github_dark">
-
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr-wn&theme=github_dark">
-
-
+  <img width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sr-wn&theme=github_dark"
+    alt="Most Used Languages">
 </p>
 
-
+---
 ---
 
 # 🏰 My Engineering Kingdom
